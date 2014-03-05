@@ -2,6 +2,7 @@
  * Name: Tianrui Guo
  * Period: 5
  * Project: CoolPic
+ * Description: Print out some ASCII art
  */
 
 public class CoolPic {

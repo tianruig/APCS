@@ -2,6 +2,7 @@
  * Name: Tianrui Guo
  * Period: 5
  * Project: Triangle
+ * Description: Calculations for a triangle (side length and angle measure)
  */
 
 public class Triangle {
@@ -44,10 +45,12 @@ public class Triangle {
         return calculateAngle(lengthOfSide2(), lengthOfSide3(), lengthOfSide1());
     }
 
+    // Calculate perimeter of the triangle
     public double calculatePerimeter() {
         return lengthOfSide1() + lengthOfSide2() + lengthOfSide3();
     }
 
+    // Calculate area using Heron's formula
     public double calculateArea() {
         double s = (calculatePerimeter()) / 2.0;
         return Math.sqrt(s * (s - lengthOfSide1()) * (s - lengthOfSide2()) * (s - lengthOfSide3()));

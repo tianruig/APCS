@@ -2,6 +2,7 @@
  * Name: Tianrui Guo
  * Period: 5
  * Project: Guessing Game
+ * Description: A game where the user guesses a number from 1 to 100.
  */
 
 import java.util.Random;

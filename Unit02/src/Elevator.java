@@ -2,14 +2,12 @@
  * Name: Tianrui Guo
  * Period: 5
  * Project: Elevator
+ * Description: An Elevator class with basic functions including loading/unloading passengers and moving to different floors.
  */
 
 public class Elevator {
 
-    private int maxFloor;
-    private int currentFloor;
-    private int maxPassengers;
-    private int numberOfPassengers;
+    private int maxFloor, currentFloor, maxPassengers, numberOfPassengers;
 
     public Elevator(int f, int p) {
         maxFloor = f;
@@ -27,7 +25,7 @@ public class Elevator {
     }
 
     public boolean unloadPassengers(int p) {
-        if ((numberOfPassengers - p) >= 0) {
+        if (numberOfPassengers >= p) {
             numberOfPassengers -= p;
             return true;
         }

@@ -2,12 +2,12 @@
  * Name: Tianrui Guo
  * Period: 5
  * Project: Easter Sunday
+ * Description: Calculate which day of month Easter falls on given the year
  */
 
 public class EasterSunday {
 
-    int day;
-    int month;
+    int day, month;
 
     public EasterSunday(int y) {
         int a = y % 19;
