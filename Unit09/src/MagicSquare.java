@@ -12,7 +12,7 @@ public class MagicSquare {
             }
         }
 
-        // Calculate sum of one diagonal
+        // Calculate sum of one diagonal to compare with everything else
         int sum = 0;
         for (int i = 0; i < arr.length; i++) {
             sum += arr[i][i];

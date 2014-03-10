@@ -9,8 +9,9 @@ public class FunWithBinarySearch {
         int end = arr.length;
 
         int mid = end / 2;
+        end--;
 
-        while (end - begin > 1) {
+        while (end > begin + 1) {
             if (value < arr[mid]) {
                 end = mid;
                 mid = (begin + end) / 2;

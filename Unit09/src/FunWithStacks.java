@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class FunWithStacks {
+public class FunWithStacks implements Stack {
     private ArrayList<String> arr;
 
     public FunWithStacks() {
@@ -12,14 +12,12 @@ public class FunWithStacks {
     }
 
     public String pop() {
-        String s = peek();
-        arr.remove(0);
-        return s;
+        return arr.remove(0);
     }
 
     public String peek() {
         if (arr.isEmpty()) {
-            return "The stack is empty";
+            return "The stack is empty.";
         } else {
             return arr.get(0);
         }
