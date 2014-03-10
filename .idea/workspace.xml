@@ -4,14 +4,26 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef98a63-1b5e-486f-bfe7-ef15cfa9b122" name="Default" comment="Import rest of code from netbeans">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit01/Unit01.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit02/Unit02.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit03/Unit03.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit04/Unit04.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit05/Unit05.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit06/Unit06.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unit09/src/Exercises.java" afterPath="$PROJECT_DIR$/Unit09/src/Exercises.java" />
+    <list default="true" id="8ef98a63-1b5e-486f-bfe7-ef15cfa9b122" name="Default" comment="&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit09/src/DataStructuresTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit08/src/Exercises.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit10/src/Exercises.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit09/src/MagicSquareTest3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit10/src/QuadraticFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit10/src/QuadraticFunctionComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit08/src/Quadrilateral.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit09/src/Queue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit08/src/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit10/src/SortSearchTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit08/src/Square.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit09/src/Stack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit08/Unit08.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled/untitled.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unit05/src/Centalyzer.java" afterPath="$PROJECT_DIR$/Unit05/src/Centalyzer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unit04/src/FunWithCalendars.java" afterPath="$PROJECT_DIR$/Unit04/src/FunWithCalendars.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unit05/src/PerfectNumbers.java" afterPath="$PROJECT_DIR$/Unit05/src/PerfectNumbers.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -77,10 +89,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Exercises.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Exercises.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Unit09/src/Exercises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="9" selection-start="713" selection-end="713" vertical-scroll-proportion="0.5843521" vertical-offset="288" max-vertical-offset="697">
+            <state line="39" column="3" selection-start="815" selection-end="1383" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3546">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sorted.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Unit09/src/Sorted.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="20" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.34700316" vertical-offset="320" max-vertical-offset="954">
               <folding />
             </state>
           </provider>
@@ -111,19 +132,64 @@
         <option value="$PROJECT_DIR$/Unit09/src/MagicSquareTestImpl.java" />
         <option value="$PROJECT_DIR$/Unit09/src/MagicSquareTest.java" />
         <option value="$PROJECT_DIR$/Unit09/src/MagicSquare.java" />
-        <option value="$PROJECT_DIR$/Unit09/src/FunWithStacks.java" />
         <option value="$PROJECT_DIR$/Unit10/src/FunWithInsertionSort.java" />
         <option value="$PROJECT_DIR$/Unit10/src/FunWithSelectionSortTest.java" />
+        <option value="$PROJECT_DIR$/Unit01/src/CoolPic.java" />
+        <option value="$PROJECT_DIR$/Unit01/src/GuessingGame.java" />
+        <option value="$PROJECT_DIR$/Unit02/src/Elevator.java" />
+        <option value="$PROJECT_DIR$/Unit03/src/EasterSunday.java" />
+        <option value="$PROJECT_DIR$/Unit03/src/Triangle.java" />
         <option value="$PROJECT_DIR$/Unit09/src/FunWithQueues.java" />
         <option value="$PROJECT_DIR$/Unit09/src/Exercises.java" />
+        <option value="$PROJECT_DIR$/Unit06/src/snackBar/SnackBar.java" />
+        <option value="$PROJECT_DIR$/Unit10/src/datastructurestest.java" />
+        <option value="$PROJECT_DIR$/Unit10/src/DataStructuresTest.java" />
+        <option value="$PROJECT_DIR$/Unit09/src/FunWithStacks.java" />
+        <option value="$PROJECT_DIR$/Unit10/src/SearchAndSortTest.java" />
+        <option value="$PROJECT_DIR$/Unit09/src/MagicSquareTest3.java" />
+        <option value="$PROJECT_DIR$/Unit10/src/SearchSortTest.java" />
+        <option value="$PROJECT_DIR$/Unit10/src/FunWithBinarySearch.java" />
+        <option value="$PROJECT_DIR$/Unit09/src/Queue.java" />
+        <option value="$PROJECT_DIR$/Unit09/src/Stack.java" />
+        <option value="$PROJECT_DIR$/Unit04/src/FunWithCalendars.java" />
+        <option value="$PROJECT_DIR$/Unit05/src/PerfectNumbers.java" />
+        <option value="$PROJECT_DIR$/Unit05/src/Centalyzer.java" />
+        <option value="$PROJECT_DIR$/Unit10/src/QuadraticFunction.java" />
+        <option value="$PROJECT_DIR$/Unit10/src/QuadraticFunctionComparator.java" />
+        <option value="$PROJECT_DIR$/../../hw/Ch09/Fraction/Fraction.java" />
+        <option value="$PROJECT_DIR$/Unit10/src/Exercises.java" />
+        <option value="$PROJECT_DIR$/Unit10/src/SortSearchTest.java" />
+        <option value="$PROJECT_DIR$/Unit08/src/Rectangle.java" />
+        <option value="$PROJECT_DIR$/Unit08/src/Quadrilateral.java" />
+        <option value="$PROJECT_DIR$/Unit08/src/Exercises.java" />
+        <option value="$PROJECT_DIR$/Unit08/src/Square.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="x" value="-7" />
+    <option name="y" value="-12" />
+    <option name="width" value="1380" />
+    <option name="height" value="760" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code maturity issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>TodoComment</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -132,7 +198,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -171,7 +237,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -182,6 +247,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,17 +258,17 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="preferences.sourceCode" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="LayoutCode.rearrangeEntriesJava" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="SearchEverywhereHistory" value="" />
@@ -222,6 +288,9 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="844" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -230,18 +299,27 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Unit10/src" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dev\IdeaProjects\APCS\Unit06\src" />
+      <recent name="D:\Dev\IdeaProjects\APCS\Unit06" />
+      <recent name="$PROJECT_DIR$/Unit09/src" />
+      <recent name="$PROJECT_DIR$/Unit09" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Exercises">
-    <configuration default="false" name="MagicSquareTest.testIsMagicSquare1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
+    <configuration default="false" name="SortSearchTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit10" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MagicSquareTest" />
-      <option name="METHOD_NAME" value="testIsMagicSquare1" />
+      <option name="MAIN_CLASS_NAME" value="SortSearchTest" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -257,13 +335,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FunWithSelectionSortTest.testSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
+    <configuration default="false" name="SortSearchTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit10" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FunWithSelectionSortTest" />
-      <option name="METHOD_NAME" value="testSort" />
+      <option name="MAIN_CLASS_NAME" value="SortSearchTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -279,13 +357,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FunWithSelectionSortTest.testSort3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
+    <configuration default="false" name="SortSearchTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit10" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FunWithSelectionSortTest" />
-      <option name="METHOD_NAME" value="testSort3" />
+      <option name="MAIN_CLASS_NAME" value="SortSearchTest" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -301,12 +379,12 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FunWithSelectionSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
+    <configuration default="false" name="SortSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit10" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FunWithSelectionSortTest" />
+      <option name="MAIN_CLASS_NAME" value="SortSearchTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -333,7 +411,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Unit09" />
+      <module name="Unit08" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -467,19 +545,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MagicSquareTest.testIsMagicSquare1" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FunWithSelectionSortTest.testSort" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FunWithSelectionSortTest.testSort3" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FunWithSelectionSortTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SortSearchTest.test3" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SortSearchTest.test1" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SortSearchTest.test2" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SortSearchTest" />
       <item index="4" class="java.lang.String" itemvalue="Application.Exercises" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.Exercises" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FunWithSelectionSortTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FunWithSelectionSortTest.testSort3" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FunWithSelectionSortTest.testSort" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MagicSquareTest.testIsMagicSquare1" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SortSearchTest.test1" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SortSearchTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SortSearchTest.test2" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SortSearchTest.test3" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -488,6 +566,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -511,30 +594,71 @@
       <created>1393223548681</created>
       <updated>1393223548681</updated>
     </task>
+    <task id="LOCAL-00001" summary="Import rest of code from netbeans">
+      <created>1393384395315</created>
+      <updated>1393384395315</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Import rest of code from netbeans">
+      <created>1393384436079</created>
+      <updated>1393384436079</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Unit06: SnackBar: Support any (reasonable) number of vending machines&#10;&#10;The number of machines can be set via a a command-line argument. Default is 3 machines.">
+      <created>1393818482852</created>
+      <updated>1393818482852</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Unit01 - 03: add description to header">
+      <created>1394053953574</created>
+      <updated>1394053953574</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Unit09-10: Update">
+      <created>1394423174034</created>
+      <updated>1394423174034</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-12" width="1380" height="760" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32829046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39940828" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39876354" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32098764" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19472913" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3271605" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17203514" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34319526" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15739386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32253087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -555,7 +679,10 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Import rest of code from netbeans" />
-    <option name="LAST_COMMIT_MESSAGE" value="Import rest of code from netbeans" />
+    <MESSAGE value="Unit06: SnackBar: Support any (reasonable) number of vending machines&#10;&#10;The number of machines can be set via a a command-line argument. Default is 3 machines." />
+    <MESSAGE value="Unit01 - 03: add description to header" />
+    <MESSAGE value="Unit09-10: Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unit09-10: Update" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -566,123 +693,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Unit09/src/Exercises.java">
+    <entry file="file://$PROJECT_DIR$/Unit08/src/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+        <state line="24" column="16" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="525">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/FunWithQueues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="17" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/Exercises.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/FunWithQueues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="17" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/Exercises.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/FunWithQueues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="17" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/Exercises.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/FunWithQueues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="17" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithInsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="615" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithSelectionSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="705" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithSelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="13" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="660" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/FunWithStacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/FunWithQueues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/FunWithStacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/FunWithQueues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithBinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="13" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithBinarySearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1275" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithInsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="44" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="555" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithBinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="13" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithBinarySearchTest.java">
@@ -727,35 +742,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit09/src/MagicSquareTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="15" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/Sorted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="20" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
-          <folding />
-        </state>
+        <state line="9" column="15" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit09/src/MagicSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="20" selection-start="316" selection-end="316" vertical-scroll-proportion="0.52816904" vertical-offset="0" max-vertical-offset="915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithBinarySearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.046224963" vertical-offset="0" max-vertical-offset="1260" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit09/src/FunWithStacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="15" column="20" selection-start="316" selection-end="316" vertical-scroll-proportion="0.52816904" vertical-offset="0" max-vertical-offset="915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithInsertionSortTest.java">
@@ -763,57 +755,219 @@
         <state line="6" column="0" selection-start="115" selection-end="916" vertical-scroll-proportion="0.06933744" vertical-offset="0" max-vertical-offset="649" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithSelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="13" selection-start="560" selection-end="560" vertical-scroll-proportion="0.6044657" vertical-offset="11" max-vertical-offset="660" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithBinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="15" selection-start="415" selection-end="415" vertical-scroll-proportion="0.30046225" vertical-offset="0" max-vertical-offset="649" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithSelectionSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="57" selection-start="930" selection-end="930" vertical-scroll-proportion="0.6533128" vertical-offset="56" max-vertical-offset="705" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithInsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="20" selection-start="341" selection-end="341" vertical-scroll-proportion="0.32357472" vertical-offset="0" max-vertical-offset="649" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit10/Unit10.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Unit02/src/Elevator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="24" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit03/src/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="5" selection-start="2147" selection-end="2147" vertical-scroll-proportion="1.5865384" vertical-offset="0" max-vertical-offset="1110" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit03/src/EasterSunday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="75" selection-start="138" selection-end="138" vertical-scroll-proportion="0.09615385" vertical-offset="0" max-vertical-offset="624" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit09/src/FunWithStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="5" selection-start="473" selection-end="473" vertical-scroll-proportion="0.5564516" vertical-offset="0" max-vertical-offset="620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithBinarySearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.10489511" vertical-offset="0" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithBinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="16" selection-start="776" selection-end="776" vertical-scroll-proportion="0.55690074" vertical-offset="229" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit04/src/craps/RollingDie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.24697337" vertical-offset="0" max-vertical-offset="3162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithSelectionSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.20581114" vertical-offset="0" max-vertical-offset="799" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit09/src/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="4" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit09/src/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="23" selection-start="147" selection-end="147" vertical-scroll-proportion="0.3292978" vertical-offset="0" max-vertical-offset="413" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Unit09/src/FunWithQueues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="28" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+        <state line="39" column="22" selection-start="990" selection-end="990" vertical-scroll-proportion="0.46489105" vertical-offset="386" max-vertical-offset="799" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit09/src/DataStructuresTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit04/src/craps/ControlPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit04/src/craps/Craps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="110" selection-end="110" vertical-scroll-proportion="0.1646489" vertical-offset="0" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit04/src/craps/CrapsTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="235" selection-end="235" vertical-scroll-proportion="0.24697337" vertical-offset="0" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit04/src/craps/CrapsTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="144" selection-end="144" vertical-scroll-proportion="0.1646489" vertical-offset="0" max-vertical-offset="1003" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit04/src/craps/DisplayPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="159" selection-end="159" vertical-scroll-proportion="0.24697337" vertical-offset="0" max-vertical-offset="1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit05/src/PerfectNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="54" selection-start="110" selection-end="118" vertical-scroll-proportion="0.1646489" vertical-offset="0" max-vertical-offset="816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit06/src/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="24" selection-start="25" selection-end="25" vertical-scroll-proportion="0.041162226" vertical-offset="0" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit06/src/Complex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="13" selection-start="14" selection-end="14" vertical-scroll-proportion="0.041162226" vertical-offset="0" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit05/src/Centalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="53" selection-start="113" selection-end="113" vertical-scroll-proportion="0.1646489" vertical-offset="0" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit04/src/FunWithCalendars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="102" selection-end="102" vertical-scroll-proportion="0.24697337" vertical-offset="0" max-vertical-offset="2074" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithSelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="240" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit10/src/QuadraticFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hw/Ch09/Fraction/Fraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="39" selection-start="1684" selection-end="1684" vertical-scroll-proportion="0.45637584" vertical-offset="1071" max-vertical-offset="2261" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit10/src/QuadraticFunctionComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="1" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit10/src/Exercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="418" selection-end="418" vertical-scroll-proportion="0.54662377" vertical-offset="0" max-vertical-offset="622" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit10/src/FunWithInsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="13" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="697" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit10/src/SortSearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="50" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1003" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit08/src/Quadrilateral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="16" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="305" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit08/src/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="21" selection-start="144" selection-end="144" vertical-scroll-proportion="0.2555205" vertical-offset="0" max-vertical-offset="634">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit08/src/Exercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="110" selection-end="110" vertical-scroll-proportion="0.14826499" vertical-offset="50" max-vertical-offset="684">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit08/src/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="16" selection-start="496" selection-end="496" vertical-scroll-proportion="0.62460566" vertical-offset="0" max-vertical-offset="634">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit01/src/GuessingGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="23" selection-start="172" selection-end="172" vertical-scroll-proportion="0.24938875" vertical-offset="17" max-vertical-offset="1173">
+        <state line="25" column="32" selection-start="694" selection-end="694" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="1314">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#2373#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit06/src/snackBar/SnackBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="147" selection-end="147" vertical-scroll-proportion="0.11356467" vertical-offset="0" max-vertical-offset="2016">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit01/src/CoolPic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="75" selection-end="75" vertical-scroll-proportion="0.083129585" vertical-offset="0" max-vertical-offset="409">
-          <folding />
+        <state line="7" column="13" selection-start="116" selection-end="116" vertical-scroll-proportion="0.19873817" vertical-offset="0" max-vertical-offset="634">
+          <folding>
+            <element signature="e#0#588#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit09/src/Exercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="9" selection-start="713" selection-end="713" vertical-scroll-proportion="0.5843521" vertical-offset="288" max-vertical-offset="697">
+        <state line="39" column="3" selection-start="815" selection-end="1383" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit09/src/Sorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="20" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.34700316" vertical-offset="320" max-vertical-offset="954">
           <folding />
         </state>
       </provider>
@@ -870,7 +1024,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Unit09</last-edited>
+          <last-edited>Unit08</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -2,6 +2,7 @@
  * Name: Tianrui Guo
  * Period: 5
  * Project: Centalyzer
+ * Description: Calculate number of each type of coin given a weight.
  */
 
 public class Centalyzer {

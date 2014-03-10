@@ -2,6 +2,7 @@
  * Name: Tianrui Guo
  * Period: 5
  * Project: PerfectNumbers
+ * Description: Calculate perfect numbers and Mersenne primes.
  */
 
 public class PerfectNumbers {
