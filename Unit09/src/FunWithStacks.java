@@ -4,7 +4,7 @@ public class FunWithStacks implements Stack {
     private ArrayList<String> arr;
 
     public FunWithStacks() {
-        arr = new ArrayList<String>();
+        arr = new ArrayList<>();
     }
 
     public void push(String s) {
@@ -12,7 +12,11 @@ public class FunWithStacks implements Stack {
     }
 
     public String pop() {
-        return arr.remove(0);
+        if (arr.isEmpty()) {
+            return "The stack is empty.";
+        } else {
+            return arr.remove(0);
+        }
     }
 
     public String peek() {
