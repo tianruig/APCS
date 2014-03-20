@@ -27,7 +27,7 @@ public class FunWithInsertionSort {
     }
 
     public int[] sort() {
-        for (int i = 1; i < list.length - 1; i++) {
+        for (int i = 1; i < list.length; i++) {
             placeInCorrectPosition(i);
         }
         return list;
