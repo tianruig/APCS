@@ -1,3 +1,5 @@
+package shape;
+
 /**
  * Name: Tianrui
  * Date: 3/7/14
@@ -13,6 +15,7 @@ public class Square extends Rectangle {
 
     @Override
     public void printDimensions() {
-        System.out.println(getSide1() + "^2");
+        super.printDimensions();
+        System.out.println("Diagonal is " + getDiagonal());
     }
 }

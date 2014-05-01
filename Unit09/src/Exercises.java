@@ -178,8 +178,6 @@ public class Exercises {
                 w.add(s);
             }
         }
-
-        words = w;
     }
 
     // m is median if there are equal number of elements greater than m as there are less than m.
